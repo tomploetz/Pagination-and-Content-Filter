@@ -1,2 +1,1 @@
-# Pagination-and-Content-Filter
-Treehouse Techdegree Unit 2 Project
+# Pagination and Content Filter
